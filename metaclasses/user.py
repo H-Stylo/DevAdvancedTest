@@ -6,6 +6,6 @@ assert hasattr(Base, 'foo'), "Foo doesn't exist ..."
 class Derived(Base):
 	
 	#---------------------------------------------------
-	def barithon(self):
+	def bar(self):
 		return self.foo()
 
