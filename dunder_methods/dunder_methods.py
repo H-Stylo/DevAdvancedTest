@@ -1,3 +1,5 @@
+# dunder_methods.py
+
 ####################################################
 class Polynomial:
 
@@ -85,3 +87,5 @@ if __name__ == "__main__":
 
 	print("\n # Fonction __call__ :")
 	print(" --> {}".format(p1(1)))
+
+	print 

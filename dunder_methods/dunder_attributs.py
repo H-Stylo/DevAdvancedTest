@@ -1,3 +1,5 @@
+# dunder_attributs.py
+
 from inspect import getsource, getfile
 
 ####################################################
