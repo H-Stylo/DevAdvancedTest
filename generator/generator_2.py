@@ -3,7 +3,7 @@
 ####################################################
 class ApiClassic:
 	"""
-	Problèmatique : beaucoup d'apu marche sur un système d'appels successifs
+	Problèmatique : beaucoup d'API marche sur un système d'appels successifs
 	ne marchant qu'en respectant l'ordre établi
 	"""
 
@@ -29,7 +29,7 @@ class ApiWithGenerator:
 	"""
 	Les générateurs simplifient la démarche en forcant une suite logique 
 	dans le processus évitant ainsi les erreurs d'implémentation dans l'orde
-	de ces appels et ils simplifient par ailleurs la lisibilité de ces dites AP
+	de ces appels et ils simplifient par ailleurs la lisibilité de ces dites API
 	"""
 
 	#---------------------------------------------------
