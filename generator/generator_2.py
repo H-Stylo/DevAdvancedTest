@@ -3,8 +3,8 @@
 ####################################################
 class ApiClassic:
 	"""
-	Problèmatique : beaucoup d'API marche sur un système d'appels successifs
-	ne marchant qu'en respectant l'ordre établi
+	Problèmatique : certaines API fonctionnent sur un système d'appels successifs
+	ne marchant qu'en respectant un ordre établi
 	"""
 
 	#---------------------------------------------------
