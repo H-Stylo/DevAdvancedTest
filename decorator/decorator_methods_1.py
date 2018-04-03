@@ -18,8 +18,6 @@ def controler_types(*a_args, **a_kwargs):
             Notre fonction modifiée. Elle se charge de contrôler
             les types qu'on lui passe en paramètres"""
             
-            # La liste des paramètres attendus (a_args) doit être de même
-            # Longueur que celle reçue (args)
             if len(a_args) != len(args):
                 raise TypeError("le nombre d'arguments attendu n'est pas égal au nombre reçu")
             # On parcourt la liste des arguments reçus et non nommés
